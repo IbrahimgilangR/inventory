@@ -1,0 +1,9 @@
+package pbotugas;  
+public class main {
+ 
+    public static void main(String[] args) {
+        Product produk = new Product();
+        produk.menu();
+        produk.getDataValue();
+    }
+}
